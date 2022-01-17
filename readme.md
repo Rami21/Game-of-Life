@@ -1,14 +1,4 @@
-Rami Abdul Rahim <br />
-r3abdulr <br />
-20820109 <br />
-macOS 11.5.2 (MacBook Pro 2019) <br />
-<br />
+This desktop application is a Game of Life simulator. One can interact with the Game of Life by adding some of the predetermined pattern or choosing to draw their own. One can watch the game evolve as the patterns interact with each other.
+
+<img width="1044" alt="GoL" src="https://user-images.githubusercontent.com/40139950/149685491-09fcd0dd-6712-45a9-a8c3-3846c1486ed8.png">
 FEATURE IMPLEMENTED: <br />
-The draw feature was implemented. To draw a <br/>
-a shape of your choice simply press on the draw <br/>
-button, this will pause the animation and give you the <br/>
-chance to DRAW the desired shape by clicking on the grid <br/>
-squares. After the desired shape has been drawn, <br/>
-please click DONE and this will resume the animation.
-
-
